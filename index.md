@@ -32,7 +32,7 @@ Sound effects by:<br />
 Armillaria Music at beginning by:<br />
 <a href="http://freemusicarchive.org/music/InSpectr/">InSpectr</a><br />
 </p>
-<iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-3-Send-Me-A-Fiver-And-Ill----Globs-Of-Cellophane-Haunt----Poem-Dictated-By-An-Albino-e3387a" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-3-Send-Me-A-Fiver-And-Ill----Globs-Of-Cellophane-Haunt----Poem-Dictated-By-An-Albino-e3387a" height="102px" frameborder="0" scrolling="no"></iframe>
 
 
 
