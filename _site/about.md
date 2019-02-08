@@ -1,0 +1,3 @@
+Automatic Biography: Queasy Memoirs is a serialised reading of a novel by one, David Goodchild. The following signal was intercepted and decoded by a satellite put into orbit by the Japanese cat food conglomerate Pusigut 25. The message warped, snarled and exploded out of the cylinders and into the wet brain of a young man working on a waste incineration plant in North London. Through his hands, this message reached textual climax. Here it is.
+
+Get in touch <a href="mailto:queasy@automaticbiography.com">queasy@automaticbiography.com</a>
