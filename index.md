@@ -33,7 +33,7 @@ Armillaria Music at beginning by:<br />
 <a href="http://freemusicarchive.org/music/InSpectr/">InSpectr</a><br />
 </p>
 
-<iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-3-Send-Me-A-Fiver-And-Ill----Globs-Of-Cellophane-Haunt----Poem-Dictated-By-An-Albino-e3387a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-3-Send-Me-A-Fiver-And-Ill----Globs-Of-Cellophane-Haunt----Poem-Dictated-By-An-Albino-e3387a" frameborder="0" scrolling="no"></iframe>
 
 
 
@@ -41,7 +41,7 @@ Armillaria Music at beginning by:<br />
 <p>
 In this episode, we hear chapters two and three, where we're introduced to Goodchild's teachers, piss balloons and some tapeworm poetry. Delicious.
 </p>
-<iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-2-Dont-Touch-My-Bald-PatchPoem-For-Tapeworm-And-Harmonica-e31fs3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-2-Dont-Touch-My-Bald-PatchPoem-For-Tapeworm-And-Harmonica-e31fs3" frameborder="0" scrolling="no"></iframe>
 
 
 
@@ -49,4 +49,4 @@ In this episode, we hear chapters two and three, where we're introduced to Goodc
 <p>
 This episode introduces our narrator and sets the context in which his life as a writer begins; vomit art, captain beefheart, nymphomaniac teachers and incineration factories.
 </p>
-<iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-1-Soaked-To-The-Skin-With-Cleaning-Fluid-e2v5rm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-1-Soaked-To-The-Skin-With-Cleaning-Fluid-e2v5rm" frameborder="0" scrolling="no"></iframe>
