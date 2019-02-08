@@ -15,7 +15,6 @@ Music:<br />
 </p>
 -->
 
-
 <h2>Episode 3: Send Me A Fiver And I'll .../Globs Of Cellophane Haunt .../Poem Dictated By An Albino...</h2>
 <p>
 Send Me A Fiver And I'll Goose Your Granny/Globs Of Cellophane Haunt The Burger Van/Poem Dictated By An Albino With Bleeding Eyeballs Under Ultraviolet Light
@@ -34,15 +33,11 @@ Armillaria Music at beginning by:<br />
 </p>
 <iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-3-Send-Me-A-Fiver-And-Ill----Globs-Of-Cellophane-Haunt----Poem-Dictated-By-An-Albino-e3387a" height="102px" frameborder="0" scrolling="no"></iframe>
 
-
-
 <h2>Episode 2: Don't Touch My Bald Patch/Poem For Tapeworm And Harmonica</h2>
 <p>
 In this episode, we hear chapters two and three, where we're introduced to Goodchild's teachers, piss balloons and some tapeworm poetry. Delicious.
 </p>
 <iframe src="https://anchor.fm/auto-biog-queasy-memoirs/embed/episodes/Episode-2-Dont-Touch-My-Bald-PatchPoem-For-Tapeworm-And-Harmonica-e31fs3" frameborder="0" scrolling="no"></iframe>
-
-
 
 <h2>Episode 1: Soaked To The Skin With Cleaning Fluid</h2>
 <p>
